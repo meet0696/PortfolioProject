@@ -1,4 +1,4 @@
-# PortfolioProject
+# PortfolioProjects
 Data Analytics Projects Using SQL, Power BI, Tableau, Python, R and Excel
 
 # PortfolioProjectCovidData 
