@@ -1,7 +1,7 @@
 # PortfolioProject
 Data Analytics Projects Using SQL, Power BI, Tableau, Python, R and Excel
 
-#PortfolioProjectCovidData 
+# PortfolioProjectCovidData 
 In This SQL Project I Downloaded Data from https://ourworldindata.org/covid-deaths 
 The Data format was in Excel(CSV). 
 I divided the data into two part..
